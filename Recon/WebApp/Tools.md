@@ -13,4 +13,4 @@
 ## Burp
 - Define scope
 - Adjust intercept client requests
-![](https://github.com/emilpaz/PTS_notes/blob/master/Img/SectionA/M3_4.png?raw=true)
+![](https://github.com/emilpaz/Tools-and-cheatsheets/blob/master/Recon/WebApp/1.png?raw=true)
